@@ -338,7 +338,7 @@ const EvolutionTable __data[MAX_SPECIES_INCLUDING_FORMS + 1] =
 
     [SPECIES_EKANS] = {
         .entries = {
-            { EVO_LEVEL, 22, SPECIES_ARBOK },
+            { EVO_LEVEL, 37, SPECIES_ARBOK },
             { EVO_NONE, 0, SPECIES_NONE },
             { EVO_NONE, 0, SPECIES_NONE },
             { EVO_NONE, 0, SPECIES_NONE },
@@ -534,7 +534,7 @@ const EvolutionTable __data[MAX_SPECIES_INCLUDING_FORMS + 1] =
 
     [SPECIES_VULPIX] = {
         .entries = {
-            { EVO_STONE, ITEM_FIRE_STONE, SPECIES_NINETALES },
+            { EVO_LEVEL, 35, SPECIES_NINETALES },
             { EVO_NONE, 0, SPECIES_NONE },
             { EVO_NONE, 0, SPECIES_NONE },
             { EVO_NONE, 0, SPECIES_NONE },
@@ -590,7 +590,7 @@ const EvolutionTable __data[MAX_SPECIES_INCLUDING_FORMS + 1] =
 
     [SPECIES_ZUBAT] = {
         .entries = {
-            { EVO_LEVEL, 22, SPECIES_GOLBAT },
+            { EVO_LEVEL, 27, SPECIES_GOLBAT },
             { EVO_NONE, 0, SPECIES_NONE },
             { EVO_NONE, 0, SPECIES_NONE },
             { EVO_NONE, 0, SPECIES_NONE },
@@ -618,7 +618,7 @@ const EvolutionTable __data[MAX_SPECIES_INCLUDING_FORMS + 1] =
 
     [SPECIES_ODDISH] = {
         .entries = {
-            { EVO_LEVEL, 21, SPECIES_GLOOM },
+            { EVO_LEVEL, 29, SPECIES_GLOOM },
             { EVO_NONE, 0, SPECIES_NONE },
             { EVO_NONE, 0, SPECIES_NONE },
             { EVO_NONE, 0, SPECIES_NONE },
